@@ -1,3 +1,5 @@
+package singleton;
+
 /**
  * @Author SunChonggao
  * @Date 2021-09-02 15:49
